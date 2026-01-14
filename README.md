@@ -29,10 +29,7 @@ with explicit assumptions, constraints, and failure modes documented.
 
 > If a claim cannot be tested or constrained, it is treated as incomplete.
 
----
-
-## Repository Structure
-Each directory is intentionally scoped to distinguish **finalized outputs** from **exploratory material**.
+--
 
 ---
 ### Published & Archived Work
