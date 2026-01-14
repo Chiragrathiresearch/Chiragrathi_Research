@@ -22,7 +22,7 @@ This repository focuses on structure, versioning, and transparent development.
 
 ## Research Approach
 
-I follow a first-principles, system-level methodology:
+This work follows a first-principles, system-level methodology:
 
 - These principles are applied across all projects listed below,
 with explicit assumptions, constraints, and failure modes documented.
