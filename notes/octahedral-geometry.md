@@ -1,7 +1,7 @@
 # Octahedral Geometry — Research Notes
 > **Note status:** Exploratory research note  
 > **Scope:** Conceptual / theoretical  
-> **Stability:** Subject to revision  
+> Stability: Under active revision  
 > **Author:** Chirag Rathi
 ## Status
 Exploratory notes. Concepts are under active development and subject to revision.
